@@ -1,0 +1,1 @@
+# Otimizacao-Alocacao-de-Frequencia-em-Redes-Moveis-com-Voronoi-Ponderado-e-Algoritmo-QAOA
